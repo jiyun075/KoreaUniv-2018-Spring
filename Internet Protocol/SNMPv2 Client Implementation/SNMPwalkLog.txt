@@ -1,0 +1,45 @@
+**SNMP Walk Log**
+
+Input OID: 1.3.6.1.2.1.1
+iso.3.6.1.2.1.1.1.0 = STRING: Hanwha WiseNet IP Camera
+iso.3.6.1.2.1.1.2.0 = OID: iso.3.6.1.4.1.36849.1.2.377
+iso.3.6.1.2.1.1.3.0 = Timeticks: 233155821
+iso.3.6.1.2.1.1.4.0 = STRING: Me <me@somewhere.org>
+iso.3.6.1.2.1.1.5.0 = STRING: XNP-6040H
+iso.3.6.1.2.1.1.6.0 = STRING: Right here, right now.
+iso.3.6.1.2.1.1.8.0 = Timeticks: 2
+iso.3.6.1.2.1.1.9.1.2.1 = OID: iso.3.6.1.6.3.1
+iso.3.6.1.2.1.1.9.1.2.2 = OID: iso.3.6.1.6.3.16.2.2.1
+iso.3.6.1.2.1.1.9.1.2.3 = OID: iso.3.6.1.6.3.11.3.1.1
+iso.3.6.1.2.1.1.9.1.2.4 = OID: iso.3.6.1.6.3.15.2.1.1
+iso.3.6.1.2.1.1.9.1.2.5 = OID: iso.3.6.1.6.3.10.3.1.1
+iso.3.6.1.2.1.1.9.1.3.1 = STRING: The MIB module for SNMPv2 entities
+iso.3.6.1.2.1.1.9.1.3.2 = STRING: View-based Access Control Model for SNMP.
+iso.3.6.1.2.1.1.9.1.3.3 = STRING: The MIB for Message Processing and Dispatching.
+iso.3.6.1.2.1.1.9.1.3.4 = STRING: The management information definitions for the SNMP User-based Security Model.
+iso.3.6.1.2.1.1.9.1.3.5 = STRING: The SNMP Management Architecture MIB.
+iso.3.6.1.2.1.1.9.1.4.1 = Timeticks: 2
+iso.3.6.1.2.1.1.9.1.4.2 = Timeticks: 2
+iso.3.6.1.2.1.1.9.1.4.3 = Timeticks: 2
+iso.3.6.1.2.1.1.9.1.4.4 = Timeticks: 2
+iso.3.6.1.2.1.1.9.1.4.5 = Timeticks: 2
+iso.3.6.1.2.1.2.1.0 = INTEGER: 5
+
+Input OID: 1.3.6.1.2.1.1.9
+iso.3.6.1.2.1.1.9.1.2.1 = OID: iso.3.6.1.6.3.1
+iso.3.6.1.2.1.1.9.1.2.2 = OID: iso.3.6.1.6.3.16.2.2.1
+iso.3.6.1.2.1.1.9.1.2.3 = OID: iso.3.6.1.6.3.11.3.1.1
+iso.3.6.1.2.1.1.9.1.2.4 = OID: iso.3.6.1.6.3.15.2.1.1
+iso.3.6.1.2.1.1.9.1.2.5 = OID: iso.3.6.1.6.3.10.3.1.1
+iso.3.6.1.2.1.1.9.1.3.1 = STRING: The MIB module for SNMPv2 entities
+iso.3.6.1.2.1.1.9.1.3.2 = STRING: View-based Access Control Model for SNMP.
+iso.3.6.1.2.1.1.9.1.3.3 = STRING: The MIB for Message Processing and Dispatching.
+iso.3.6.1.2.1.1.9.1.3.4 = STRING: The management information definitions for the SNMP User-based Security Model.
+iso.3.6.1.2.1.1.9.1.3.5 = STRING: The SNMP Management Architecture MIB.
+iso.3.6.1.2.1.1.9.1.4.1 = Timeticks: 2
+iso.3.6.1.2.1.1.9.1.4.2 = Timeticks: 2
+iso.3.6.1.2.1.1.9.1.4.3 = Timeticks: 2
+iso.3.6.1.2.1.1.9.1.4.4 = Timeticks: 2
+iso.3.6.1.2.1.1.9.1.4.5 = Timeticks: 2
+iso.3.6.1.2.1.2.1.0 = INTEGER: 5
+
